@@ -2,6 +2,10 @@
 
 
 
+#### Notebook location
+
+`/covid_and_wildfires/covid_wildfire_EDA.ipynb`
+
 ```
 References: 
 Zhou, Xiaodan, Kevin Josey, Leila Kamareddine, Miah C. Caine, Tianjia Liu, Loretta J. Mickley, Matthew Cooper, and Francesca Dominici. 
